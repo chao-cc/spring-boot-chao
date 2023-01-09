@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chao-framework/chao-common/chao-common.iml" filepath="$PROJECT_DIR$/chao-framework/chao-common/chao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chao-framework/chao-framework.iml" filepath="$PROJECT_DIR$/chao-framework/chao-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-chao.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-chao.iml" />
+    </modules>
+  </component>
+</project>
